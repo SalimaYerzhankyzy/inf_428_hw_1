@@ -1,2 +1,3 @@
 # Day 1: I solved 3 problems on LeetCode involving: loops, arrays, and sets. Additionaly, I draw explanations for these problems using Excalidraw.
 # Day 2: As security analyst, I worked on creating "Aggregated User Threat Score" metric for a company with 5 departments. I developed a single metric to represent the overall cyber health of departments. To ensure accuracy, I generated test cases with different scenarios. 
+# Day 3: To work with time-based data in a ML models, I transformed linear time (0 - 24 hours) into a cyclic feature.This code gonna correct the calculation of time difference across day boundaries. Also, I used 'unittest' to validate all test cases and ensure correct functionality.
